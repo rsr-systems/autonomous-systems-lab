@@ -62,3 +62,4 @@ python main.py
 - [x] **Julia**: 6-DOF non-linear rocket descent & soft touchdown guidance optimizer (`trajectory_optimizer.jl`)
 - [x] **Elixir**: Fault-tolerant OTP GenServer distributed swarm heartbeat node (`swarm_node.ex`)
 - [x] **Go**: High-throughput concurrent geospatial telemetry broadcast relay (`telemetry_relay.go`)
+- [ ] | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Go](./0004-Median-of-Two-Sorted-Arrays/solution.go) | $O(\log(\min(m, n)))$ | $O(1)$ | Binary Search on Partition Cut |
