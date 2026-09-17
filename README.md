@@ -57,7 +57,6 @@ python main.py
 - [x] **Elixir**: Fault-tolerant OTP GenServer distributed swarm heartbeat node (`swarm_node.ex`)
 
 ## Project 4: High-Performance Multi-Language Core
-## Project 4: High-Performance Multi-Language Core
 - [x] **Rust**: Bare-metal discrete PID altitude controller with integral anti-windup (`rust_controller.rs`)
 - [x] **Zig**: Zero-allocation packed binary telemetry frame decoder (`telemetry_parser.zig`)
 - [x] **Julia**: 6-DOF non-linear rocket descent & soft touchdown guidance optimizer (`trajectory_optimizer.jl`)
