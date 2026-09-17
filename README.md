@@ -1,13 +1,26 @@
 # autonomous-systems-lab
-[![Build: Passing]](https://camo.githubusercontent.com/c27a457659b89ee4f1f80f7995c559dd37f2051bde7167ad25791e5c5c92cc8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6275696c642d70617373696e672d627269676874677265656e2e737667) [![License: MIT]](https://camo.githubusercontent.com/fdf2982b9f5d7489dcf44570e714e3a15fce6253e0cc6b5aa61a075aac2ff71b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667)
+
+![Build: Passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-2021-DEA584?logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-0.13-F7A41D?logo=zig&logoColor=black)
 ![Julia](https://img.shields.io/badge/Julia-1.10-9558B2?logo=julia&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-OTP-4B275F?logo=elixir&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.22-00ADD8?logo=go&logoColor=white)
+
 Personal sandbox, learning notes, scripts, and daily practice projects.
 
+## 🚀 Quick Start
+
+Run the interactive test suite to execute any simulation module:
+
+```bash
+git clone [https://github.com/rsr-systems/autonomous-systems-lab.git](https://github.com/rsr-systems/autonomous-systems-lab.git)
+cd autonomous-systems-lab
+
+# Launch interactive menu runner
+python main.py
 ## 🚀 Quick Start
 
 Run the interactive test suite to execute any simulation module:
